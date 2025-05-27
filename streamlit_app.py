@@ -4,7 +4,7 @@ from huggingface_hub import InferenceClient
 # Initialize the InferenceClient
 client = InferenceClient(
     provider="nebius",
-    api_key="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",
+    api_key="",
 )
 
 # Streamlit app layout
